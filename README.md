@@ -13,4 +13,6 @@ microscope.
 
 * PDF contains drawings of parts and assemblies.
 
+* File for 3d printed shutter mount 4pi-shutter-mount-V2.stl
+
 
