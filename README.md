@@ -15,4 +15,4 @@ microscope.
 
 * File for 3d printed shutter mount 4pi-shutter-mount-V2.stl
 
-
+* Pupil Plane Camera contains Solidworks files and drawings for mounting a board level camera in place of an objective at the pupil position.
